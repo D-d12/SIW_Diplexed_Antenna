@@ -1,0 +1,10 @@
+$begin 'CacheDataVersion'
+	DataVersion=128
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	$q='0.4mm'
+	$s='1.25mm'
+	$t='2.4mm'
+	$u='18.8mm'
+	$q1='0.5mm'
+$end 'VariableValues'
